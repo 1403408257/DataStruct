@@ -1,10 +1,9 @@
-# Attempts to use Golang to implement data structures
-**If it helps you, please don't be stingy with your star~**
-Authro:Beautyzl
-Email:140beautyzl@gmail.com		or	1403408257@qq.com
+# 尝试使用Golang实现数据结构的仓库
+**如果能够帮助到你，请给我点个Star，谢谢~**
 
-**TIP:** In this repository, we mainly implement code, rarely involving theory
+作者：李福双
+邮箱：1403408257@qq.com
 
-# Content
-In order to facilitate understanding, I try to write the code of the same data structure in the same file, which is friendly for novices~
+**注意：这个仓库主要是写代码复现数据结构，没有过多的理论介绍，如果你需要了解理论，这个网站还不错[·点我去看看·](http://data.biancheng.net/intro/)**
 
+为了便于理解，我尽量将代码放在一个文件下进行编写。
